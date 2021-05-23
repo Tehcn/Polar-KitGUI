@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Polar-KitGUI:jar">
+    <output-path>$PROJECT_DIR$/../../../Spigot-1.16.5-Dev-Server/plugins</output-path>
+    <root id="archive" name="Polar-KitGUI.jar">
+      <element id="module-output" name="Polar-KitGUI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

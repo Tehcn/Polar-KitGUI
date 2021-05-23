@@ -1,0 +1,11 @@
+name: Polar-KitGUI
+main: me.tehcn.kitgui.PolarKitGUI
+version: 1.0-beta
+description: Polar-KitGUI adds brand new kits for the PolarExplosions Minecraft server
+api-version: 1.16
+
+commands:
+  kits:
+    description: Brings up the kit GUI
+    usage: "Usage: /kit"
+    aliases: [kit, pk, polarkit, polarkits, pkits, pkit]
