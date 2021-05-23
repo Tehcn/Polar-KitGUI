@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="Polar-KitGUI:jar">
+  <artifact type="jar" build-on-make="true" name="Polar-KitGUI:jar">
     <output-path>$PROJECT_DIR$/dist</output-path>
     <root id="archive" name="Polar-KitGUI.jar">
       <element id="module-output" name="Polar-KitGUI" />
